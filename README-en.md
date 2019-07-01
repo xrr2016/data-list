@@ -11,17 +11,17 @@ More easy to use scrolling to load more list components<br />![](https://cdn.nla
 
 ## Table of Contents
 
-* [Introduction](https://www.yuque.com/deepexi-serverless/onx52o/dgfllg?translate=en#Introduction)
-* [Feature](https://www.yuque.com/deepexi-serverless/onx52o/dgfllg?translate=en#Feature)
-* [Demo](https://www.yuque.com/deepexi-serverless/onx52o/dgfllg?translate=en#Demo)
-* [Pre Install](https://www.yuque.com/deepexi-serverless/onx52o/dgfllg?translate=en#Pre-Install)
-* [Quick start](https://www.yuque.com/deepexi-serverless/onx52o/dgfllg?translate=en#Quick-start)
-* [Example](https://www.yuque.com/deepexi-serverless/onx52o/dgfllg?translate=en#Example)
-  * [Basic](https://www.yuque.com/deepexi-serverless/onx52o/dgfllg?translate=en#basic)
-  * [Slot content](https://www.yuque.com/deepexi-serverless/onx52o/dgfllg?translate=en#slot-content)
-  * [Reset](https://www.yuque.com/deepexi-serverless/onx52o/dgfllg?translate=en#reset)
-* [License](https://www.yuque.com/deepexi-serverless/onx52o/dgfllg?translate=en#License)
-* [Contributors](https://www.yuque.com/deepexi-serverless/onx52o/dgfllg?translate=en#Contributors)
+* [Introduction](#Introduction)
+* [Feature](#Feature)
+* [Demo](#Demo)
+* [Pre Install](#Pre-Install)
+* [Quick start](#Quick-start)
+* [Example](#Example)
+  * [Basic](#basic)
+  * [Slot content](#slot-content)
+  * [Reset](#reset)
+* [License](#License)
+* [Contributors](#Contributors)
 
 <a name="Introduction"></a>
 
@@ -40,13 +40,13 @@ More easy to use scrolling to load more list components<br />![](https://cdn.nla
 
 * Just configure `url` And `数据在接口返回的路径` Data can be obtained
 * Bring your own drop-down load more, paging data processing
-* Support storage request parameters, you can turn up the page to get the previous page data, get the next page data down<br />**[⬆Back to Top](https://www.yuque.com/deepexi-serverless/onx52o/dgfllg?translate=en#table-of-contents)**
+* Support storage request parameters, you can turn up the page to get the previous page data, get the next page data down<br />**[⬆Back to Top](#table-of-contents)**
 
 <a name="Demo"></a>
 
 ## Demo
 
-* [Online demo](https://femessage.github.io/data-list)<br />**[⬆Back to Top](https://www.yuque.com/deepexi-serverless/onx52o/dgfllg?translate=en#table-of-contents)**
+* [Online demo](https://femessage.github.io/data-list)<br />**[⬆Back to Top](#table-of-contents)**
 
 <a name="5bc0fb1f"></a>
 
@@ -66,7 +66,7 @@ import axios from 'axios'
 Vue.prototype.$axios = axios
 ```
 
-**[⬆Back to Top](https://www.yuque.com/deepexi-serverless/onx52o/dgfllg?translate=en#table-of-contents)**
+**[⬆Back to Top](#table-of-contents)**
 
 <a name="06ad314b"></a>
 
@@ -102,7 +102,7 @@ export default {
 </script>
 ```
 
-**[⬆Back to Top](https://www.yuque.com/deepexi-serverless/onx52o/dgfllg?translate=en#table-of-contents)**
+**[⬆Back to Top](#table-of-contents)**
 
 <a name="Example"></a>
 
@@ -112,19 +112,19 @@ export default {
 
 ### Basic
 
-![](https://cdn.nlark.com/yuque/0/2019/gif/224563/1561712793428-d597adc3-e741-443e-9c52-65fa5ae46b89.gif#align=left&display=inline&height=560&originHeight=560&originWidth=320&size=0&status=done&width=320)<br />**[⬆Back to Top](https://www.yuque.com/deepexi-serverless/onx52o/dgfllg?translate=en#table-of-contents)**
+![](https://cdn.nlark.com/yuque/0/2019/gif/224563/1561712793428-d597adc3-e741-443e-9c52-65fa5ae46b89.gif#align=left&display=inline&height=560&originHeight=560&originWidth=320&size=0&status=done&width=320)<br />**[⬆Back to Top](#table-of-contents)**
 
 <a name="72668cd2"></a>
 
 ### Slot content
 
-![](https://cdn.nlark.com/yuque/0/2019/gif/224563/1561712793541-047e59ab-6487-4000-96f3-505e236e2323.gif#align=left&display=inline&height=560&originHeight=560&originWidth=320&size=0&status=done&width=320)<br />**[⬆Back to Top](https://www.yuque.com/deepexi-serverless/onx52o/dgfllg?translate=en#table-of-contents)**
+![](https://cdn.nlark.com/yuque/0/2019/gif/224563/1561712793541-047e59ab-6487-4000-96f3-505e236e2323.gif#align=left&display=inline&height=560&originHeight=560&originWidth=320&size=0&status=done&width=320)<br />**[⬆Back to Top](#table-of-contents)**
 
 <a name="reset"></a>
 
 ### Reset
 
-![](https://cdn.nlark.com/yuque/0/2019/gif/224563/1561712793411-86387fdf-7ca9-4430-a052-19f56913787f.gif#align=left&display=inline&height=560&originHeight=560&originWidth=320&size=0&status=done&width=320)<br />**[⬆Back to Top](https://www.yuque.com/deepexi-serverless/onx52o/dgfllg?translate=en#table-of-contents)**
+![](https://cdn.nlark.com/yuque/0/2019/gif/224563/1561712793411-86387fdf-7ca9-4430-a052-19f56913787f.gif#align=left&display=inline&height=560&originHeight=560&originWidth=320&size=0&status=done&width=320)<br />**[⬆Back to Top](#table-of-contents)**
 
 <a name="License"></a>
 
